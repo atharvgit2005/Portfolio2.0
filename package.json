@@ -10,10 +10,16 @@
     "dev:backend": "cd backend && npm run dev",
     "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install"
   },
-  "keywords": ["portfolio", "react", "express", "prisma"],
+  "keywords": [
+    "portfolio",
+    "react",
+    "express",
+    "prisma"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "vite": "^6.3.6"
   }
 }
