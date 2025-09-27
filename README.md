@@ -1,4 +1,4 @@
-# Developer & Windsurfer – Portfolio
+# Developer  – Portfolio
 
 A modern, single-page portfolio that blends an energetic, ocean-inspired aesthetic with professional polish. Built with React + Tailwind on the frontend and Express + Prisma (SQLite) on the backend.
 
