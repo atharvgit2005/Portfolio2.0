@@ -10,7 +10,7 @@ pnpm-debug.log*
 .env
 
 # Build outputs
-/frontend/build/
+/frontend/
 /backend/dist/
 
 # Database
