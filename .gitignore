@@ -10,7 +10,7 @@ pnpm-debug.log*
 .env
 
 # Build outputs
-/frontend/
+# /frontend  # disabled to allow assistant tooling to read/write frontend files
 /backend/dist/
 
 # Database
@@ -20,3 +20,7 @@ pnpm-debug.log*
 .DS_Store
 .idea/
 .vscode/
+
+.DS_Store
+node_modules/
+**/node_modules/
